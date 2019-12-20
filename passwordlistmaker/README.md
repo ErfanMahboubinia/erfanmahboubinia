@@ -2,6 +2,6 @@
 You just need to download and run it on a server or localhost(you can use Xampp or any localhost else
 whatever you like)
 
-passwordlist create is next to the passwordlist.php file
-<image scr="">
+Passwordlist will create next to the passwordlist.php file
+<image scr="https://github.com/ErfanMahboubinia/erfanmahboubinia/raw/master/passwordlistmaker/picture.png">
 
