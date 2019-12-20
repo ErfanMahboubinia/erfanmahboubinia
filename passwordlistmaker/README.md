@@ -3,5 +3,5 @@ You just need to download and run it on a server or localhost(you can use Xampp 
 whatever you like)
 
 Passwordlist will create next to the passwordlist.php file
-<image scr="https://github.com/ErfanMahboubinia/erfanmahboubinia/raw/master/passwordlistmaker/picture.png">
+<image src="https://github.com/ErfanMahboubinia/erfanmahboubinia/raw/master/passwordlistmaker/picture.png">
 
